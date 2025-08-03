@@ -33,7 +33,7 @@ public class Fruits {
         mango.taste = "Sweet";
         mango.weight = 250.5f;
         mango.isRipe = true;
-        mango.keepFreshFor = 3;
+        mango.keepFreshFor = 5;
         mango.origin = "Bangladesh";
 
         Fruits apple = new Fruits();
