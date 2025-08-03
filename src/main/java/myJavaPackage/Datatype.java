@@ -48,6 +48,7 @@ public class Datatype {
         // printing multiple variable in single line
         System.out.println("the phone model is " + model+ " the ramsize is " + ramsize + " the price of the phone " +price);
 
+        System.out.println("git change");
 
 
     }
