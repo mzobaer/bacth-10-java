@@ -50,7 +50,7 @@ public class students {
 
         zareef.name = "zareef mridha";
         zareef.id = 104;
-        zareef.location = "lynn";
+        zareef.location = "Salem";
         zareef.isStudent = true;
         System.out.println("zareef full name is " +zareef.name);
         System.out.println("zareef id is " +zareef.id);
