@@ -1,7 +1,11 @@
 package myJavaPackage.oopConcecpt;
 
 public class inheritance2 extends Inheritance1{
-
+         /*
+         * parent -child class
+         * Parent class is called super class
+         * child class is called subclass
+         * */
 
     String car = "mercedes";
 
